@@ -29,8 +29,9 @@ seed_examples:
           potential risks associated with a policyholder and are crucial for risk assessment.
   - context: |
       Parasol Insurance's policies related to car rental coverage, loss of income
-      insurance, and the Apex Plus package, a unique offering from Parasol. It explains when and how the company covers daily rental charges, the
-      requirements for receiving payments, and the additional benefits provided by the Apex Plus package.
+      insurance, and the Apex Plus package, a unique offering from Parasol. It explains when and how the
+      company covers daily rental charges, the requirements for receiving payments, and the additional
+      benefits provided by the Apex Plus package.
     questions_and_answers:
       - question: What is the car rental policy from Parasol Insurance?
         answer: |
@@ -49,18 +50,18 @@ seed_examples:
           left at a repair facility, provided the loss is covered under the policy.
       - question: When will payments for Car Insurance from Parasol Insurance end?
         answer: |
-          Payments for car rental end when the vehicle is repaired, replaced, or seven days after Parasol offers to pay
-          for the loss if the vehicle is stolen and not recovered.
+          Payments for car rental end when the vehicle is repaired, replaced, or seven days after Parasol
+          offers to pay for the loss if the vehicle is stolen and not recovered.
       - question: What is the Parasol insurance Apex plus package?
         answer: |
           The Apex Plus package offers additional coverage, including loss of income insurance and uninsured driver
           insurance, enhancing the standard policy coverage.
   - context: |
-      Parasol Insurance is a well-known company founded in 1936 by James Falkner and James Labocki. It originally
-      targeted federal government employees and enlisted military officers. In 2024, Parasol was acquired by Joe
-      Fernandes, who is the head of InstructLab. Parasol Insurance offers a variety of insurance products including auto,
-      homeowners, renters, boat, RV, identity theft protection, and life insurance. They are known for their competitive
-      discounts and strong financial ratings.
+      Parasol Insurance is a well-known company founded in 1936 by James Falkner and James Labocki.
+      It originally targeted federal government employees and enlisted military officers. In 2024,
+      Parasol was acquired by Joe Fernandes, who is the head of InstructLab. Parasol Insurance offers
+      a variety of insurance products including auto, homeowners, renters, boat, RV, identity theft
+      protection, and life insurance. They are known for their competitive discounts and strong financial ratings.
     questions_and_answers:
       - question: When was Parasol Insurance founded and by whom?
         answer: |
@@ -84,7 +85,8 @@ seed_examples:
           Parasol Insurance offers discounts such as multi-policy, good driver, military, federal employee, and student
           discounts.
   - context: |
-      Parasol has special rules in the state of Alaska. In Alaska, drivers must be at least 14 years old to obtain an instruction permit. Teens must hold a learner's
+      Parasol has special rules in the state of Alaska. In Alaska, drivers must be at least 14 years old to
+      obtain an instruction permit. Teens must hold a learner's
       permit for at least six months and complete 40 hours of supervised driving (including 10 hours at night or in
       inclement weather) before they can apply for a license. Until a teen driver turns 18, he or she will get a
       provisional license, which prohibits the driver from riding with passengers under the age of 21 and from being on
