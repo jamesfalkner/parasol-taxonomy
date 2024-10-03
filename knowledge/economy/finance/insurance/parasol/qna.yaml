@@ -107,6 +107,28 @@ seed_examples:
         answer: |
           Parasol looks for red flags such as an unusually high number of claims, suspicious conduct,
           or discrepancies between the application and the facts to detect fraud.
+  - context: |
+      Parasol maintains a claim database for each claim submitted by the customer.
+      This database contains critical information about the customer and their
+      history, along with risk factors affecting premiums.
+    questions_and_answers:
+      - question: What information is stored about each policyholder?
+        answer: |
+          It includes demographic details such as age, gender, occupation, marital
+          status, and geographical location.
+      - question: What Risk Factors are included and why?
+        answer: |
+          Risk factors, such as credit score, driving record
+          (for automobile insurance), health status (for medical insurance),
+          and property characteristics (for home insurance).
+      - question: What external factors are included in the information?
+        answer: |
+          Factors external to the policyholders that may influence claim likelihood,
+          such as economic indicators, weather conditions, and regulatory changes.
+      - question: What does Parasol use the claim data be used for?
+        answer: |
+          Parasol uses claim data for Risk Assessment, Policy Pricing, Fraud Detection,
+          and Customer Segmentation.
 document_outline: |
   Information about the Parasol insurance company, and how to read and understand claims.
   The information is related to the Parasol insurance internal records and systems.
