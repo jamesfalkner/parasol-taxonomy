@@ -112,7 +112,7 @@ document_outline: |
   The information is related to the Parasol insurance internal records and systems.
 document:
   repo: https://github.com/jamesfalkner/parasol_knowledge.git
-  commit: 82a536b514daf6686f54aa92e5436e7d744c2219
+  commit: b508e7218786ba7dd78def92ba0968d26a0d80f8
   patterns:
     - Parasol_auto_insurance.md
     - Insurance_claims_data.md
